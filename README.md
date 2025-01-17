@@ -43,5 +43,5 @@ cat intersection_watchlist.csv
 ````
 
 > [!TIP]
-> Alternatively, you can specify the output file with the -o argument.
-> Additionally, you can download exports of user's Letterboxd data and replace usernames with paths to their exports
+> - Alternatively, you can specify the output file with the -o argument.
+> - Additionally, you can download exports of user's Letterboxd data and replace usernames with paths to their exports
