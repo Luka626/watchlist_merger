@@ -27,6 +27,9 @@ pip install -r requirements.txt
 ```
 The tool is now installed.
 
+> [!TIP]
+> Speed up execution by downloading exports of users' Letterboxd data, use path to export in lieu of username in -u argument.
+
 ## Usage
 - Navigate to the module and read the instructions:
 ```bash
@@ -43,5 +46,4 @@ cat intersection_watchlist.csv
 ````
 
 > [!TIP]
-> - Alternatively, you can specify the output file with the -o argument.
-> - Additionally, you can download exports of user's Letterboxd data and replace usernames with paths to their exports
+> You can specify the output file with the -o argument.
